@@ -1,5 +1,6 @@
 # Structuring Ancient Iranian Textual Data for Trismegistos
 **Mahta Beigi — KU Leuven, August 2026**
+
 Master's thesis project, Advanced Master of Digital Humanities
 
 This repository contains the data processing, datasets, and interactive visualisations developed for the project **Structuring Ancient Iranian Textual Data for Trismegistos**.
@@ -32,18 +33,24 @@ Interactive versions of the visualisations are available on Tableau Public.
 
 ### The Achaemenid Inscriptions Dashboard
 
-[View interactive visualisation on Tableau Public](https://public.tableau.com/views/AchaemenidInscriptionsAnInteractiveOverview)
+[View interactive visualisation on Tableau Public](https://public.tableau.com/views/InteractiveHistoricalMapandTimelineofIranianLanguages/MapandTimeline)
 
-![The Achaemenid Inscriptions Dashboard](visualisations/screenshots/The Achaemenid Inscriptions Dashboard.png)
+<p align="center">
+  <img src="visualisations/screenshots/the-achaemenid-inscriptions-dashboard.png" width="700">
+</p>
 
 ### Comparative Overview of Iranian Languages
 
-[View interactive visualisation on Tableau Public](https://public.tableau.com/views/ComparativeOverviewofIranianLanguages)
+[View interactive visualisation on Tableau Public](https://public.tableau.com/views/ComparativeOverviewofIranianLanguages/ComparativeOverviewofIranianLanguages)
 
-![Comparative Overview of Iranian Languages](visualisations/screenshots/Comparative Overview of Iranian Languages.png)
+<p align="center">
+  <img src="visualisations/screenshots/comparative-overview-of-iranian-languages.png" width="700">
+</p>
 
 ### Interactive Historical Map and Timeline of Iranian Languages
 
-[View interactive visualisation on Tableau Public](https://public.tableau.com/views/InteractiveHistoricalMapandTimelineofIranianLanguages)
+[View interactive visualisation on Tableau Public](https://public.tableau.com/views/AchaemenidInscriptionsAnInteractiveOverview/TheAchaemenidInscriptionsDashboard)
 
-![Interactive Historical Map and Timeline of Iranian Languages](visualisations/screenshots/Interactive Historical Map and Timeline of Iranian Languages.png)
+<p align="center">
+  <img src="visualisations/screenshots/interactive-historical-map-and-timeline-of-iranian-languages.png" width="700">
+</p>
