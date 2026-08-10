@@ -24,6 +24,8 @@ Contains the packaged Tableau workbooks (`.twbx`) developed for the project:
 - **The Achaemenid Inscriptions Dashboard**
 - **Comparative Overview of Iranian Languages**
 - **Interactive Historical Map and Timeline of Iranian Languages**
+- `screenshots/` – screenshots of the visualisations used in the thesis
+- `demo/` – a short screen recording demonstrating the interactive features of the visualisations
 
 Interactive versions of the visualisations are available on Tableau Public.
 
@@ -31,7 +33,7 @@ Interactive versions of the visualisations are available on Tableau Public.
 
 ### The Achaemenid Inscriptions Dashboard
 
-[View interactive visualisation on Tableau Public](https://public.tableau.com/views/InteractiveHistoricalMapandTimelineofIranianLanguages/MapandTimeline)
+[View interactive visualisation on Tableau Public](https://public.tableau.com/views/AchaemenidInscriptionsAnInteractiveOverview/TheAchaemenidInscriptionsDashboard)
 
 <p align="center">
   <img src="visualisations/screenshots/the-achaemenid-inscriptions-dashboard.png" width="700">
@@ -47,7 +49,7 @@ Interactive versions of the visualisations are available on Tableau Public.
 
 ### Interactive Historical Map and Timeline of Iranian Languages
 
-[View interactive visualisation on Tableau Public](https://public.tableau.com/views/AchaemenidInscriptionsAnInteractiveOverview/TheAchaemenidInscriptionsDashboard)
+[View interactive visualisation on Tableau Public](https://public.tableau.com/views/InteractiveHistoricalMapandTimelineofIranianLanguages/MapandTimeline)
 
 <p align="center">
   <img src="visualisations/screenshots/interactive-historical-map-and-timeline-of-iranian-languages.png" width="700">
