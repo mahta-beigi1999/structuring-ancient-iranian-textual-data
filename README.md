@@ -7,7 +7,7 @@ The project examines how Ancient Iranian textual material can be identified, str
 
 ## Repository Structure
 
-### `old-persian-processing`
+### `old-persian-processing/`
 
 Contains the data and Python workflow used for the Old Persian case study:
 
@@ -17,15 +17,15 @@ Contains the data and Python workflow used for the Old Persian case study:
 
 The Old Persian source data were obtained from the [Achaemenid Royal Inscriptions Online (ARIo)](https://oracc.museum.upenn.edu/ario/ARIoDownloads/index.html) project.
 
-### `visualisations`
+### `visualisations/`
 
-Contains the packaged Tableau workbooks (`.twbx`) developed for the project:
+Contains the Tableau workbooks and supporting visual materials developed for the project:
 
-- **The Achaemenid Inscriptions Dashboard**
-- **Comparative Overview of Iranian Languages**
-- **Interactive Historical Map and Timeline of Iranian Languages**
 - `screenshots/` – screenshots of the visualisations used in the thesis
 - `demo/` – a short screen recording demonstrating the interactive features of the visualisations
+- `the-achaemenid-inscriptions-dashboard.twbx` – packaged Tableau workbook
+- `comparative-overview-of-iranian-languages.twbx` – packaged Tableau workbook
+- `interactive-historical-map-and-timeline-of-iranian-languages.twbx` – packaged Tableau workbook
 
 Interactive versions of the visualisations are available on Tableau Public.
 
