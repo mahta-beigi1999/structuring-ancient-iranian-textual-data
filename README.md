@@ -1,9 +1,7 @@
 # Structuring Ancient Iranian Textual Data for Trismegistos
 **Mahta Beigi — KU Leuven, August 2026**
 
-Master's thesis project, Advanced Master of Digital Humanities
-
-This repository contains the data processing, datasets, and interactive visualisations developed for the project **Structuring Ancient Iranian Textual Data for Trismegistos**.
+This repository contains the data processing, datasets, and interactive visualisations developed for the Master's thesis *Structuring Ancient Iranian Textual Data for Trismegistos*, completed as part of the Advanced Master of Digital Humanities at KU Leuven.
 
 The project examines how Ancient Iranian textual material can be identified, structured, and prepared for systematic integration into Trismegistos. The Old Persian material serves as a case study for data extraction, cleaning, standardisation, and restructuring.
 
